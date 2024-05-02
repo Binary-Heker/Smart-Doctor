@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222563860975",
+    "project_id": "cyber-cypher-healthcare",
+    "storage_bucket": "cyber-cypher-healthcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222563860975:android:de52f21e30cfdd61f7761a",
+        "android_client_info": {
+          "package_name": "com.example.cyber_cypher_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNsq9xnRdZpWOBM4PeMtjoJMaFYs6ML0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
